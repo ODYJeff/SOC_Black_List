@@ -245,3 +245,12 @@ beraskencur.site
 static.flux-telemetry.com
 edge-ord.clouds-stacks.com
 ad.starx-net.com
+vps.xs1.ccwu.cc
+xss.xs1.ccwu.cc
+c.xs1.ccwu.cc
+attacker-collector.com
+boss.jytian.cc.cd
+gdp.gasjy.kdns.fr
+gds.gasjy.kdns.fr
+888.bossjy.kdns.fr
+ssh.gputw.ai
