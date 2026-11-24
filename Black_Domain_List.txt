@@ -254,3 +254,12 @@ gdp.gasjy.kdns.fr
 gds.gasjy.kdns.fr
 888.bossjy.kdns.fr
 ssh.gputw.ai
+Webhook.site
+dnslog.cn
+moments-notice.com
+planetmaison.com
+newbooker.com
+reallifeaccounting.com
+outagefixed.sbs
+outagerestored.sbs
+tpech.net
